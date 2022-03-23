@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="practice_4:war" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,19 +24,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="基础工程_maven_pom配置">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_1_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_1/src/main/java/com/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_1/src/main/java/com/yukicris/servlet1/HelloServlet.java" afterDir="false" />
+    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="基础工程,第一个servlet配置">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/practice_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ProperitiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_2/src/main/resources/db.properities" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/practice_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/FileServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/ImageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RedirectServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/resources/Test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_3/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_4/practice_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_4/src/main/java/com/yukicris/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_4/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_4/src/main/webapp/success.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1/practice_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +69,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="26jOKs92oa6rgOmFIMWOILpQ7JC" />
   <component name="ProjectViewState">
@@ -60,21 +96,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_3/src/main/resources" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workList\yukicris_practice\practice_3\src\main\resources" />
       <recent name="D:\workList\yukicris_practice\.idea" />
       <recent name="D:\workList\yukicris_practice" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 6" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/practice_4_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="practice_1:war">
+        <artifact name="practice_4:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/s1" />
+            <option name="CONTEXT_PATH" value="/practice_4_war" />
           </settings>
         </artifact>
       </deployment>
@@ -137,7 +175,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="practice_1:war" />
+          <artifact name="practice_4:war" />
         </option>
       </method>
     </configuration>
@@ -153,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647933467264</updated>
       <workItem from="1647933468541" duration="3158000" />
-      <workItem from="1648013430573" duration="1013000" />
+      <workItem from="1648013430573" duration="17358000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -176,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647933858114</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="基础工程,第一个servlet配置">
+      <created>1648014770458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648014770458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,52 +242,89 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基础工程" />
     <MESSAGE value="基础工程_maven_pom配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础工程_maven_pom配置" />
+    <MESSAGE value="基础工程,第一个servlet配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础工程,第一个servlet配置" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648014447195">
+    <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648046374390">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1648014447195" />
-    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1648013714356">
+    <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1648046374390" />
+    <state x="1260" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648026201335">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1648013714356" />
-    <state x="746" y="194" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1648014267566">
+    <state x="1260" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1648026201335" />
+    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1648045716187">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="746" y="194" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.2048.1112@0.0.2048.1112" timestamp="1648014267566" />
-    <state x="804" y="311" key="FileChooserDialogImpl" timestamp="1648014372794">
+    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1648045716187" />
+    <state x="746" y="194" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1648021774432">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1648014372794" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1647948347440">
+    <state x="746" y="194" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.2048.1112@0.0.2048.1112" timestamp="1648021774432" />
+    <state x="804" y="311" key="FileChooserDialogImpl" timestamp="1648021759868">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1647948347440" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1647948347440">
+    <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1648021759868" />
+    <state width="666" height="311" key="GridCell.Tab.0.bottom" timestamp="1648047044820">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1647948347440" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1647948347440">
+    <state width="666" height="311" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044820" />
+    <state width="666" height="311" key="GridCell.Tab.0.center" timestamp="1648047044820">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1647948347440" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1647948347440">
+    <state width="666" height="311" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044820" />
+    <state width="666" height="311" key="GridCell.Tab.0.left" timestamp="1648047044820">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1647948347440" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1647933868505">
+    <state width="666" height="311" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044820" />
+    <state width="666" height="311" key="GridCell.Tab.0.right" timestamp="1648047044820">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1647933868505" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647933860461">
+    <state width="666" height="311" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044820" />
+    <state width="666" height="311" key="GridCell.Tab.1.bottom" timestamp="1648047044737">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1647933860461" />
-    <state x="434" y="217" key="new project wizard" timestamp="1647934116902">
+    <state width="666" height="311" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044737" />
+    <state width="666" height="311" key="GridCell.Tab.1.center" timestamp="1648047044736">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="434" y="217" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1647934116902" />
+    <state width="666" height="311" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044736" />
+    <state width="666" height="311" key="GridCell.Tab.1.left" timestamp="1648047044736">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044736" />
+    <state width="666" height="311" key="GridCell.Tab.1.right" timestamp="1648047044736">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044736" />
+    <state width="666" height="311" key="GridCell.Tab.2.bottom" timestamp="1648047044737">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044737" />
+    <state width="666" height="311" key="GridCell.Tab.2.center" timestamp="1648047044737">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044737" />
+    <state width="666" height="311" key="GridCell.Tab.2.left" timestamp="1648047044737">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044737" />
+    <state width="666" height="311" key="GridCell.Tab.2.right" timestamp="1648047044737">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="666" height="311" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648047044737" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1648014782321">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648014782321" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648014773413">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648014773413" />
+    <state x="726" y="316" key="new project wizard" timestamp="1648045101553">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="726" y="316" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1648045101553" />
   </component>
 </project>
