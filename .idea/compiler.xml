@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="yukicris_practice" />
+        <module name="practice_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="practice_1" target="1.7" />
       <module name="yukicris_practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
