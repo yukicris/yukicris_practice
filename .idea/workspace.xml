@@ -24,43 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="基础工程,第一个servlet配置">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/practice_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ProperitiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2/src/main/resources/db.properities" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/practice_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/FileServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/ImageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RedirectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/resources/Test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_3/src/main/webapp/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_4/practice_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_4/src/main/java/com/yukicris/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_4/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_4/src/main/webapp/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1/practice_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="servlet回顾&#10;request和response回顾" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647933467264</updated>
       <workItem from="1647933468541" duration="3158000" />
-      <workItem from="1648013430573" duration="17358000" />
+      <workItem from="1648013430573" duration="17674000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -221,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648014770458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="servlet回顾&#10;request和response回顾">
+      <created>1648047555112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648047555112</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +214,8 @@
     <MESSAGE value="基础工程" />
     <MESSAGE value="基础工程_maven_pom配置" />
     <MESSAGE value="基础工程,第一个servlet配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础工程,第一个servlet配置" />
+    <MESSAGE value="servlet回顾&#10;request和response回顾" />
+    <option name="LAST_COMMIT_MESSAGE" value="servlet回顾&#10;request和response回顾" />
   </component>
   <component name="WindowStateProjectService">
     <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648046374390">
@@ -318,10 +290,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648014782321" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648014773413">
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648047563318">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648014773413" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648047563318" />
     <state x="726" y="316" key="new project wizard" timestamp="1648045101553">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
