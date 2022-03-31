@@ -5,12 +5,19 @@
     <file type="web" url="file://$PROJECT_DIR$/practice_2" />
     <file type="web" url="file://$PROJECT_DIR$/practice_3" />
     <file type="web" url="file://$PROJECT_DIR$/practice_4" />
+    <file type="web" url="file://$PROJECT_DIR$/practice_5" />
+    <file type="web" url="file://$PROJECT_DIR$/practice_6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/practice_5/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">

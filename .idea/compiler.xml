@@ -10,6 +10,7 @@
         <module name="practice_3" />
         <module name="practice_2" />
         <module name="practice_1" />
+        <module name="practice_6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,8 @@
       <module name="practice_2" target="1.7" />
       <module name="practice_3" target="1.7" />
       <module name="practice_4" target="1.7" />
+      <module name="practice_5" target="1.7" />
+      <module name="practice_6" target="1.7" />
       <module name="yukicris_practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
