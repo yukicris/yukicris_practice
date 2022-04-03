@@ -70,6 +70,19 @@
     <url-pattern>/fs1</url-pattern>
   </servlet-mapping>
 
+
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.yukicris.servlet2.LoginServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/servlet/login</url-pattern>
+  </servlet-mapping>
+
+
+
   <session-config>
     <!--15分钟后session自动时效-->
       <session-timeout>15</session-timeout>
@@ -84,11 +97,23 @@
   <filter-mapping>
     <filter-name>Filter01</filter-name>
     <!--只要是/*下的任何请求,都会经过这个过滤器(也可以指定/xxx)-->
-    <url-pattern>/*</url-pattern>
+    <url-pattern>/servlet/*</url-pattern>
   </filter-mapping>
 
 
   <listener>
     <listener-class>com.yukicris.listener.OnlineCountListener</listener-class>
   </listener>
+
+
+  <filter>
+    <filter-name>SysFilter</filter-name>
+    <filter-class>com.yukicris.listener.SysFilter</filter-class>
+  </filter>
+
+  <filter-mapping>
+    <filter-name>SysFilter</filter-name>
+    <!--只要是/*下的任何请求,都会经过这个过滤器(也可以指定/xxx)-->
+    <url-pattern>/sys/*</url-pattern>
+  </filter-mapping>
 </web-app>

@@ -14,6 +14,7 @@
         <module>practice_3</module>
         <module>practice_4</module>
         <module>practice_6</module>
+        <module>practice_07</module>
     </modules>
 
 
@@ -29,7 +30,7 @@
             <version>2.4</version>
         </dependency>
         <dependency>
-            <groupId>mysql</groupId>
+            <groupId>mysql</groupId><!--mysql的驱动包-->
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.46</version>
         </dependency>
