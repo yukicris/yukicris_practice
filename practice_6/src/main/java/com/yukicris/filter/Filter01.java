@@ -1,5 +1,7 @@
 package com.yukicris.filter;
 
+import org.junit.Test;
+
 import javax.servlet.*;
 import java.io.IOException;
 
@@ -43,4 +45,5 @@ public class Filter01 implements Filter {
         System.gc();
         System.out.println("filter01已经销毁");
     }
+
 }

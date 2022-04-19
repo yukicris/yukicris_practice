@@ -25,30 +25,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="session和cooke&#10;监听器和拦截器">
-      <change afterPath="$PROJECT_DIR$/practice_07/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/listener/SysFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/servlet2/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/servlet2/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/util/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/webapp/Login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/webapp/sys/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_6/src/main/webapp/sys/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_7/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_7/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_6/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/practice_6/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_6/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_6/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_07/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1/practice_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1/target/practice_1.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/target/practice_1.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1/target/practice_1/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2/practice_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/practice_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2/target/practice_2.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/target/practice_2.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2/target/practice_2/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3/practice_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/practice_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/target/practice_3.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3/WEB-INF/classes/com/yukicris/servlet/RequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/target/practice_3/WEB-INF/classes/com/yukicris/servlet/RequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_4/practice_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/practice_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_4/target/practice_4.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/target/practice_4.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_4/target/practice_4/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/filter/Filter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/filter/Filter01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +81,15 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="26jOKs92oa6rgOmFIMWOILpQ7JC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -88,21 +99,37 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_6/src/main/webapp/WEB-INF" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40574712" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\yukicris_practice\practice_7\src\main\java" />
+      <recent name="F:\yukicris_practice\practice_07\src" />
+      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp\WEB-INF" />
       <recent name="D:\workList\yukicris_practice" />
       <recent name="D:\workList\yukicris_practice\practice_3\src\main\resources" />
       <recent name="D:\workList\yukicris_practice\.idea" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.TestJdbc2">
+  <component name="RunManager" selected="JUnit.TestJdbc3.test">
+    <configuration name="Filter01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yukicris.filter.Filter01" />
+      <module name="practice_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yukicris.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestJdbc" />
       <module name="practice_07" />
@@ -117,15 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yukicris.listener.TestPanel" />
-      <module name="practice_6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yukicris.listener.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TestJdbc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestJdbc3" />
+      <module name="practice_7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJdbc3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJdbc3" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -205,9 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestJdbc3.test" />
         <item itemvalue="Application.TestJdbc2" />
+        <item itemvalue="Application.TestJdbc3" />
         <item itemvalue="Application.TestJdbc" />
-        <item itemvalue="Application.TestPanel" />
+        <item itemvalue="Application.Filter01" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +264,9 @@
       <workItem from="1648791738422" duration="6969000" />
       <workItem from="1648945480388" duration="1284000" />
       <workItem from="1648969040977" duration="7205000" />
+      <workItem from="1650245830959" duration="1335000" />
+      <workItem from="1650268367288" duration="6388000" />
+      <workItem from="1650341238908" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -290,6 +326,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -297,9 +358,15 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="基础工程" />
     <MESSAGE value="基础工程_maven_pom配置" />
     <MESSAGE value="基础工程,第一个servlet配置" />
@@ -313,11 +380,15 @@
     </state>
     <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1648969343182" />
     <state x="738" y="188" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1648542127656" />
-    <state x="596" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648973611585">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="0" y="344" key="#TestJdbc2" timestamp="1650285844423">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="344" key="#TestJdbc2/0.0.2048.1112@0.0.2048.1112" timestamp="1650285844423" />
+    <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650270873620">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="596" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1648973611585" />
-    <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1648800856920" />
+    <state x="807" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650270873620" />
     <state x="1260" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648026201335">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -334,46 +405,50 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="746" y="194" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.2048.1112@0.0.2048.1112" timestamp="1648021774432" />
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1650269786649">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650269786649" />
     <state x="804" y="311" key="FileChooserDialogImpl" timestamp="1648021759868">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1648021759868" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1648976722539">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1650344489180">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="666" height="316" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1648976722538">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1650344489180">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1648976722538" />
-    <state width="666" height="316" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1648976722537">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1650344489180">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1648976722537" />
-    <state width="666" height="316" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1648976722539">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1650344489180">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="666" height="316" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="666" height="316" key="GridCell.Tab.1.bottom" timestamp="1648813169153">
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
+    <state width="1342" height="329" key="GridCell.Tab.1.bottom" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="666" height="316" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169153" />
-    <state width="666" height="316" key="GridCell.Tab.1.center" timestamp="1648813169152">
+    <state width="1342" height="329" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1650289854328" />
+    <state width="1342" height="329" key="GridCell.Tab.1.center" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="666" height="316" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="666" height="316" key="GridCell.Tab.1.left" timestamp="1648813169152">
+    <state width="1342" height="329" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1650289854328" />
+    <state width="1342" height="329" key="GridCell.Tab.1.left" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="666" height="316" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169152" />
-    <state width="666" height="316" key="GridCell.Tab.1.right" timestamp="1648813169153">
+    <state width="1342" height="329" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1650289854328" />
+    <state width="1342" height="329" key="GridCell.Tab.1.right" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="666" height="316" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648813169153" />
+    <state width="1342" height="329" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1650289854328" />
     <state width="666" height="316" key="GridCell.Tab.2.bottom" timestamp="1648813169156">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -406,14 +481,20 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="664" height="313" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648546047327" />
-    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1648975040393">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="283" height="644" key="HiddenNamespacesPopup" timestamp="1650270889142">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1648975040393" />
-    <state x="499" y="75" key="Maven.ArtifactSearchDialog" timestamp="1648969494920">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="283" height="644" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1650270889142" />
+    <state x="665" y="101" key="Maven.ArtifactSearchDialog" timestamp="1650283817148">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="499" y="75" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1648969494920" />
+    <state x="665" y="101" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650283817148" />
+    <state x="909" y="223" key="SettingsEditor" timestamp="1650344915252">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="909" y="223" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1650344915252" />
     <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1648736887020">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -426,11 +507,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1648974207634" />
-    <state x="356" y="146" key="new project wizard" timestamp="1648969297794">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="778" y="381" key="new project wizard" timestamp="1650285699001">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="356" y="146" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1648969297794" />
-    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1648546138919" />
+    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1650285699001" />
     <state x="1206" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1648795844600">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

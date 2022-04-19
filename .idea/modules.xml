@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/practice_07/practice_07.iml" filepath="$PROJECT_DIR$/practice_07/practice_07.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_1/practice_1.iml" filepath="$PROJECT_DIR$/practice_1/practice_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_2/practice_2.iml" filepath="$PROJECT_DIR$/practice_2/practice_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_3/practice_3.iml" filepath="$PROJECT_DIR$/practice_3/practice_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_4/practice_4.iml" filepath="$PROJECT_DIR$/practice_4/practice_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_6/practice_6.iml" filepath="$PROJECT_DIR$/practice_6/practice_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_7/practice_7.iml" filepath="$PROJECT_DIR$/practice_7/practice_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/yukicris_practice.iml" filepath="$PROJECT_DIR$/yukicris_practice.iml" />
     </modules>
   </component>
