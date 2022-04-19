@@ -24,38 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="session和cooke&#10;监听器和拦截器">
-      <change afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_7/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_7/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="修改配置依赖">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_07/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_07/src/main/java/TestJdbc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_7/src/main/java/TestJdbc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1/practice_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1/target/practice_1.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/target/practice_1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1/target/practice_1/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/practice_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/practice_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/target/practice_2.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/target/practice_2.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/target/practice_2/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/practice_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/practice_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/target/practice_3.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/target/practice_3/WEB-INF/classes/com/yukicris/servlet/RequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/target/practice_3/WEB-INF/classes/com/yukicris/servlet/RequestTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_4/practice_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/practice_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_4/target/practice_4.war" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/target/practice_4.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_4/target/practice_4/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/filter/Filter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_6/src/main/java/com/yukicris/filter/Filter01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +237,8 @@
       <workItem from="1648969040977" duration="7205000" />
       <workItem from="1650245830959" duration="1335000" />
       <workItem from="1650268367288" duration="6388000" />
-      <workItem from="1650341238908" duration="1602000" />
+      <workItem from="1650341238908" duration="1733000" />
+      <workItem from="1650354642045" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -317,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648736876569</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改配置依赖">
+      <created>1650344956048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650344956048</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +351,8 @@
     <MESSAGE value="基础工程,第一个servlet配置" />
     <MESSAGE value="servlet回顾&#10;request和response回顾" />
     <MESSAGE value="session和cooke&#10;监听器和拦截器" />
-    <option name="LAST_COMMIT_MESSAGE" value="session和cooke&#10;监听器和拦截器" />
+    <MESSAGE value="修改配置依赖" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置依赖" />
   </component>
   <component name="WindowStateProjectService">
     <state x="498" y="0" key="#Project_Structure" timestamp="1648969343182">
@@ -413,26 +393,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1648021759868" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1650344489180">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1650345047112">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1650344489180">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1650345047112">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1648976722538" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1650344489180">
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1650345047112">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1648976722537" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1650344489180">
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1650345047112">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1650344489180" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
     <state width="1342" height="329" key="GridCell.Tab.1.bottom" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -495,14 +475,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="909" y="223" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1650344915252" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1648736887020">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1650344969342">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648736887020" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648736880719">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650344969342" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650344963068">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1648736880719" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650344963068" />
     <state x="499" y="161" key="extract.method.dialog" timestamp="1648974207634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
