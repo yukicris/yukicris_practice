@@ -25,8 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="修改配置依赖">
+      <change afterPath="$PROJECT_DIR$/practice_8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_8/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_8/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/GetServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +244,12 @@
       <workItem from="1650245830959" duration="1335000" />
       <workItem from="1650268367288" duration="6388000" />
       <workItem from="1650341238908" duration="1733000" />
-      <workItem from="1650354642045" duration="1305000" />
+      <workItem from="1650354642045" duration="3120000" />
+      <workItem from="1650449239106" duration="622000" />
+      <workItem from="1650790297283" duration="629000" />
+      <workItem from="1651028188845" duration="1401000" />
+      <workItem from="1651041441435" duration="635000" />
+      <workItem from="1651127667113" duration="1203000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -296,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650344956048</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="修改配置依赖">
+      <created>1650355954888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650355954888</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,10 +407,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650269786649" />
-    <state x="804" y="311" key="FileChooserDialogImpl" timestamp="1648021759868">
+    <state x="804" y="311" key="FileChooserDialogImpl" timestamp="1650356042956">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1648021759868" />
+    <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1650356042956" />
     <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1650345047112">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -461,37 +479,37 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="664" height="313" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648546047327" />
-    <state width="283" height="644" key="HiddenNamespacesPopup" timestamp="1650270889142">
+    <state width="283" height="644" key="HiddenNamespacesPopup" timestamp="1650355885543">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1648975040393" />
-    <state width="283" height="644" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1650270889142" />
+    <state width="283" height="644" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1650355885543" />
     <state x="665" y="101" key="Maven.ArtifactSearchDialog" timestamp="1650283817148">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="499" y="75" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1648969494920" />
     <state x="665" y="101" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650283817148" />
-    <state x="909" y="223" key="SettingsEditor" timestamp="1650344915252">
+    <state x="909" y="223" key="SettingsEditor" timestamp="1650356065513">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="909" y="223" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1650344915252" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1650344969342">
+    <state x="909" y="223" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1650356065513" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1650355981097">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650344969342" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650344963068">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650355981097" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650355957522">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650344963068" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650355957522" />
     <state x="499" y="161" key="extract.method.dialog" timestamp="1648974207634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1648974207634" />
-    <state x="778" y="381" key="new project wizard" timestamp="1650285699001">
+    <state x="778" y="381" key="new project wizard" timestamp="1651028258313">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="356" y="146" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1648969297794" />
-    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1650285699001" />
+    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1651028258313" />
     <state x="1206" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1648795844600">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
