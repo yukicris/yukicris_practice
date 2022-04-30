@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.Date;
 
 public class GetServlet extends HttpServlet {
     @Override
@@ -24,10 +25,13 @@ public class GetServlet extends HttpServlet {
         System.out.printf(""+url);
 
 
+
     }
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         super.doPost(req, resp);
     }
+
+
 }

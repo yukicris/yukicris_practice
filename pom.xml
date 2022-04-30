@@ -14,7 +14,8 @@
         <module>practice_3</module>
         <module>practice_4</module>
         <module>practice_6</module>
-        <module>practice_07</module>
+        <module>practice_7</module>
+        <module>practice_8</module>
     </modules>
 
 
@@ -105,6 +106,8 @@
             <artifactId>spring-jdbc</artifactId>
             <version>5.1.10.RELEASE</version>
         </dependency>
+
+
 
         <dependency>
             <groupId>org.mybatis</groupId>
