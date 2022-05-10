@@ -6,7 +6,10 @@
 
     <groupId>org.example</groupId>
     <artifactId>yukicris_practice</artifactId>
+
+    <!--打包方式-->
     <packaging>pom</packaging>
+
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>practice_1</module>
@@ -16,6 +19,8 @@
         <module>practice_6</module>
         <module>practice_7</module>
         <module>practice_8</module>
+        <module>practice_9</module>
+        <module>practice_9</module>
     </modules>
 
 
@@ -115,7 +120,35 @@
             <version>2.0.3</version>
         </dependency>
 
+        <!--springcloud依赖-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-dependencies</artifactId>
+            <version>Greenwich.SR1</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
 
+        <!--数据源-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.1.10</version>
+        </dependency>
+
+        <!--lombok-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+        </dependency>
+
+        <!--log4j-->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
     </dependencies>
 
 </project>

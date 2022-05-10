@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="practice_9" />
         <module name="practice_8" />
         <module name="practice_7" />
         <module name="practice_6" />
@@ -25,6 +26,7 @@
       <module name="practice_6" target="1.7" />
       <module name="practice_7" target="1.7" />
       <module name="practice_8" target="1.7" />
+      <module name="practice_9" target="1.5" />
       <module name="yukicris_practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>

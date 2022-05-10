@@ -24,15 +24,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="修改配置依赖">
-      <change afterPath="$PROJECT_DIR$/practice_8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_8/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_8/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="修改配置依赖+rabbitmq学习项目包">
+      <change afterPath="$PROJECT_DIR$/practice_8/src/main/java/不能删.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_9/src/main/java/com/yukicris/springcloud/pojo/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_3_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/practice_4_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1/practice_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_1/practice_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2/practice_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/practice_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3/practice_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/practice_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_4/practice_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_4/practice_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yukicris_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yukicris_practice.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,23 +84,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_6/src/main/webapp/WEB-INF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40574712" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\yukicris_practice\practice_7\src\main\java" />
-      <recent name="F:\yukicris_practice\practice_07\src" />
-      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\yukicris_practice\practice_8" />
       <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp\WEB-INF" />
       <recent name="D:\workList\yukicris_practice" />
       <recent name="D:\workList\yukicris_practice\practice_3\src\main\resources" />
       <recent name="D:\workList\yukicris_practice\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\yukicris_practice\practice_7\src\main\java" />
+      <recent name="F:\yukicris_practice\practice_07\src" />
+      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestJdbc3.test">
@@ -249,7 +260,12 @@
       <workItem from="1650790297283" duration="629000" />
       <workItem from="1651028188845" duration="1401000" />
       <workItem from="1651041441435" duration="635000" />
-      <workItem from="1651127667113" duration="1203000" />
+      <workItem from="1651127667113" duration="1263000" />
+      <workItem from="1651889821805" duration="6656000" />
+      <workItem from="1651920393544" duration="715000" />
+      <workItem from="1652079886573" duration="3102000" />
+      <workItem from="1652144623026" duration="1064000" />
+      <workItem from="1652172142635" duration="1284000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -314,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650355954888</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改配置依赖+rabbitmq学习项目包">
+      <created>1651147101721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147101721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,14 +393,15 @@
     <MESSAGE value="servlet回顾&#10;request和response回顾" />
     <MESSAGE value="session和cooke&#10;监听器和拦截器" />
     <MESSAGE value="修改配置依赖" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置依赖" />
+    <MESSAGE value="修改配置依赖+rabbitmq学习项目包" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置依赖+rabbitmq学习项目包" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="0" key="#Project_Structure" timestamp="1648969343182">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="738" y="188" key="#Project_Structure" timestamp="1651908547024">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1648969343182" />
-    <state x="738" y="188" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1648542127656" />
+    <state x="738" y="188" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1651908547024" />
     <state x="0" y="344" key="#TestJdbc2" timestamp="1650285844423">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -391,10 +415,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1260" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1648026201335" />
-    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1648797561521">
+    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1651908961554">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1648797561521" />
+    <state x="1342" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1651908961554" />
     <state x="1160" y="282" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1648719753210">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -411,26 +435,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="804" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1650356042956" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1650345047112">
+    <state width="666" height="305" key="GridCell.Tab.0.bottom" timestamp="1652106029117">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1650345047112">
+    <state width="666" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1652106029117" />
+    <state width="666" height="305" key="GridCell.Tab.0.center" timestamp="1652106029117">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1648976722538" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1650345047112">
+    <state width="666" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1652106029117" />
+    <state width="666" height="305" key="GridCell.Tab.0.left" timestamp="1652106029117">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1648976722537" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1650345047112">
+    <state width="666" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1652106029117" />
+    <state width="666" height="305" key="GridCell.Tab.0.right" timestamp="1652106029117">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1648976722539" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1650345047112" />
+    <state width="666" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1652106029117" />
     <state width="1342" height="329" key="GridCell.Tab.1.bottom" timestamp="1650289854328">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -479,37 +503,41 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="664" height="313" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1648546047327" />
-    <state width="283" height="644" key="HiddenNamespacesPopup" timestamp="1650355885543">
+    <state width="283" height="644" key="HiddenNamespacesPopup" timestamp="1651891561253">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1648975040393" />
-    <state width="283" height="644" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1650355885543" />
+    <state width="283" height="644" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1651891561253" />
     <state x="665" y="101" key="Maven.ArtifactSearchDialog" timestamp="1650283817148">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="499" y="75" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1648969494920" />
     <state x="665" y="101" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1650283817148" />
-    <state x="909" y="223" key="SettingsEditor" timestamp="1650356065513">
+    <state x="915" y="161" key="SettingsEditor" timestamp="1652090788067">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="909" y="223" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1650356065513" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1650355981097">
+    <state x="915" y="161" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1652090788067" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1651147112041">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650355981097" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650355957522">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1651147112041" />
+    <state x="1335" y="389" width="426" height="523" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1651891757603">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1650355957522" />
+    <state x="1335" y="389" width="426" height="523" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1651891757603" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651147105080">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1651147105080" />
     <state x="499" y="161" key="extract.method.dialog" timestamp="1648974207634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1648974207634" />
-    <state x="778" y="381" key="new project wizard" timestamp="1651028258313">
+    <state x="778" y="381" key="new project wizard" timestamp="1651891369393">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="356" y="146" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1648969297794" />
-    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1651028258313" />
+    <state x="778" y="381" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1651891369393" />
     <state x="1206" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1648795844600">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

@@ -10,18 +10,13 @@
     <file type="web" url="file://$PROJECT_DIR$/practice_6" />
     <file type="web" url="file://$PROJECT_DIR$/practice_7" />
     <file type="web" url="file://$PROJECT_DIR$/practice_8" />
+    <file type="web" url="file://$PROJECT_DIR$/practice_9" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/practice_07/pom.xml" />
-        <option value="$PROJECT_DIR$/practice_5/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
