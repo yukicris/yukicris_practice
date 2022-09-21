@@ -17,7 +17,7 @@ public class RedirectServlet extends HttpServlet {
          */
 
 
-
+        //重定向
         resp.sendRedirect("/practice_3_war/ImageServlet");
 
     }

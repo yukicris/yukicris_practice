@@ -17,6 +17,7 @@ public class ServletDemo04 extends HttpServlet {
         System.out.printf("进入了demo4");
         RequestDispatcher requestDispatcher = context.getRequestDispatcher("/getservlet");  // 转发的请求路径
         requestDispatcher.forward(req,resp);  //调用forward实现请求转发,转发浏览器地址是不会变的,重定向会变
+        //重定向指的是用resp.sendRedirect("out1?mess="+message); 这种方法
     }
 
     @Override

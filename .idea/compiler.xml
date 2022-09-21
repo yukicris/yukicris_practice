@@ -2,23 +2,28 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="practice_9" />
-        <module name="practice_8" />
+        <module name="practice_10" />
         <module name="practice_7" />
         <module name="practice_6" />
-        <module name="practice_4" />
         <module name="practice_3" />
+        <module name="practice_4" />
+        <module name="practice_8" />
         <module name="practice_2" />
         <module name="practice_1" />
+        <module name="practice_11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="practice_07" target="1.7" />
       <module name="practice_1" target="1.7" />
+      <module name="practice_10" target="1.5" />
+      <module name="practice_11" target="1.5" />
       <module name="practice_2" target="1.7" />
       <module name="practice_3" target="1.7" />
       <module name="practice_4" target="1.7" />
