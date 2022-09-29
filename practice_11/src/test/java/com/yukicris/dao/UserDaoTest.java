@@ -1,6 +1,7 @@
 package com.yukicris.dao;
 
 
+import org.apache.ibatis.session.RowBounds;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
 import yukicris.dao.UserDao;
@@ -98,6 +99,33 @@ public class UserDaoTest {
         }
         sqlSession.commit();
         //关闭
+        sqlSession.close();
+    }
+
+    @Test
+    public void getUserByLimit(){
+        SqlSession sqlSession = MybatisUtils.getSqlSession();
+        UserDao mapper = sqlSession.getMapper(UserDao.class);
+        HashMap<String, Integer> stringIntegerHashMap = new HashMap<String, Integer>();
+        stringIntegerHashMap.put("startIndex",0);
+        stringIntegerHashMap.put("pageSize",1);
+        List<User> userByLimit = mapper.getUserByLimit(stringIntegerHashMap);
+        for (User user:userByLimit) {
+            System.out.println(user);
+        }
+        sqlSession.close();
+    }
+
+
+    @Test
+    public void getUserByRowBounds(){
+        SqlSession sqlSession = MybatisUtils.getSqlSession();
+        //通过java代码层面实现分页
+        RowBounds rowBounds = new RowBounds(1,2);
+        List<User> selectList = sqlSession.selectList("yukicris.dao.UserDao.getUserByRowBounds",null,rowBounds);
+        for (User user:selectList) {
+            System.out.println(user);
+        }
         sqlSession.close();
     }
 

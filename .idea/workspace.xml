@@ -24,31 +24,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="修改配置依赖+rabbitmq学习项目包">
-      <change afterPath="$PROJECT_DIR$/practice_10/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/java/com/yukicris/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/java/com/yukicris/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/java/com/yukicris/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/java/com/yukicris/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/java/com/yukicris/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/main/resources/mbatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_10/src/test/java/com/yukicris/dao/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/main/resources/mbatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_11/src/test/java/com/yukicris/dao/UserDaoTest.java" afterDir="false" />
+    <list default="true" id="005faa3f-eb47-47c4-9503-80ae0fa8928e" name="Default Changelist" comment="mybatis项目学习">
+      <change afterPath="$PROJECT_DIR$/practice_12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/main/java/com/yukicris/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/main/java/com/yukicris/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/main/java/com/yukicris/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/main/resources/mbatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_12/src/test/java/UserMapperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_2/src/main/java/com/yukicris/servlet/ServletDemo04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_3/src/main/java/com/yukicris/servlet/RedirectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_11/src/main/java/yukicris/dao/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_11/src/main/resources/mbatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice_11/src/main/resources/mbatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_11/src/test/java/com/yukicris/dao/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_11/src/test/java/com/yukicris/dao/UserDaoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -90,47 +84,33 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_11/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice_12/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40574712" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\yukicris_practice\practice_11\src\main\resources" />
-      <recent name="F:\yukicris_practice\practice_11\src\main\java" />
-      <recent name="F:\yukicris_practice\practice_8" />
-      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp\WEB-INF" />
-      <recent name="D:\workList\yukicris_practice" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.yukicris.dao" />
-      <recent name="dao" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\yukicris_practice\practice_7\src\main\java" />
       <recent name="F:\yukicris_practice\practice_07\src" />
       <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yukicris.utils" />
+      <recent name="com.yukicris.pojo" />
+      <recent name="com.yukicris.dao" />
+      <recent name="dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\yukicris_practice\practice_12\src\main\resources" />
+      <recent name="F:\yukicris_practice\practice_11\src\main\resources" />
+      <recent name="F:\yukicris_practice\practice_11\src\main\java" />
+      <recent name="F:\yukicris_practice\practice_8" />
+      <recent name="D:\workList\yukicris_practice\practice_6\src\main\webapp\WEB-INF" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserDaoTest.test (1)">
-    <configuration name="UserDaoTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice_10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yukicris.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yukicris.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
-      <option name="METHOD_NAME" value="addUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserMapperTest.test">
     <configuration name="UserDaoTest.addUser2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice_10" />
       <extension name="coverage">
@@ -142,6 +122,38 @@
       <option name="PACKAGE_NAME" value="com.yukicris.dao" />
       <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
       <option name="METHOD_NAME" value="addUser2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.getUserByLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yukicris.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yukicris.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="getUserByLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.getUserByRowBounds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yukicris.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yukicris.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="getUserByRowBounds" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,33 +175,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice_10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yukicris.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yukicris.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
+    <configuration name="UserMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice_12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMapperTest" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDaoTest.updateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice_10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yukicris.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yukicris.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.yukicris.dao.UserDaoTest" />
-      <option name="METHOD_NAME" value="updateUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -270,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserMapperTest.test" />
+        <item itemvalue="JUnit.UserDaoTest.getUserByRowBounds" />
+        <item itemvalue="JUnit.UserDaoTest.getUserByLimit" />
         <item itemvalue="JUnit.UserDaoTest.test (1)" />
         <item itemvalue="JUnit.UserDaoTest.addUser2" />
-        <item itemvalue="JUnit.UserDaoTest.updateUser" />
-        <item itemvalue="JUnit.UserDaoTest.addUser" />
-        <item itemvalue="JUnit.UserDaoTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +309,11 @@
       <workItem from="1661237907494" duration="7829000" />
       <workItem from="1661503204317" duration="17000" />
       <workItem from="1663687978154" duration="1469000" />
-      <workItem from="1663745976619" duration="16112000" />
+      <workItem from="1663745976619" duration="16239000" />
+      <workItem from="1663831516183" duration="5072000" />
+      <workItem from="1663918328424" duration="1204000" />
+      <workItem from="1664261332758" duration="1583000" />
+      <workItem from="1664347557595" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1647933622810</created>
@@ -398,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652193465259</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mybatis项目学习">
+      <created>1663775303234</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663775303234</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,61 +456,70 @@
     <MESSAGE value="session和cooke&#10;监听器和拦截器" />
     <MESSAGE value="修改配置依赖" />
     <MESSAGE value="修改配置依赖+rabbitmq学习项目包" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置依赖+rabbitmq学习项目包" />
+    <MESSAGE value="mybatis项目学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis项目学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1129" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1663746313044">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1129" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1663746313044" />
-    <state x="1342" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1663762649932">
+    <state x="1342" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1663833860226">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1342" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1663762649932" />
+    <state x="1342" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1663833860226" />
     <state width="441" height="466" key="DebuggerActiveHint" timestamp="1663749689730">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="441" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1663749689730" />
-    <state width="2005" height="303" key="GridCell.Tab.0.bottom" timestamp="1663769166269">
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom" timestamp="1663858033178">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="303" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1663769166269" />
-    <state width="2005" height="303" key="GridCell.Tab.0.center" timestamp="1663769166269">
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1663858033178" />
+    <state width="2005" height="302" key="GridCell.Tab.0.center" timestamp="1663858033178">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="303" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1663769166269" />
-    <state width="2005" height="303" key="GridCell.Tab.0.left" timestamp="1663769166269">
+    <state width="2005" height="302" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1663858033178" />
+    <state width="2005" height="302" key="GridCell.Tab.0.left" timestamp="1663858033178">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="303" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1663769166269" />
-    <state width="2005" height="303" key="GridCell.Tab.0.right" timestamp="1663769166269">
+    <state width="2005" height="302" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1663858033178" />
+    <state width="2005" height="302" key="GridCell.Tab.0.right" timestamp="1663858033178">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="303" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1663769166269" />
-    <state width="980" height="373" key="GridCell.Tab.1.bottom" timestamp="1663749826504">
+    <state width="2005" height="302" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1663858033178" />
+    <state width="980" height="373" key="GridCell.Tab.1.bottom" timestamp="1663775407756">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="980" height="373" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1663749826504" />
-    <state width="980" height="373" key="GridCell.Tab.1.center" timestamp="1663749826504">
+    <state width="980" height="373" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1663775407756" />
+    <state width="980" height="373" key="GridCell.Tab.1.center" timestamp="1663775407755">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="980" height="373" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1663749826504" />
-    <state width="980" height="373" key="GridCell.Tab.1.left" timestamp="1663749826504">
+    <state width="980" height="373" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1663775407755" />
+    <state width="980" height="373" key="GridCell.Tab.1.left" timestamp="1663775407755">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="980" height="373" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1663749826504" />
-    <state width="980" height="373" key="GridCell.Tab.1.right" timestamp="1663749826504">
+    <state width="980" height="373" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1663775407755" />
+    <state width="980" height="373" key="GridCell.Tab.1.right" timestamp="1663775407756">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="980" height="373" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1663749826504" />
-    <state x="526" y="201" key="SettingsEditor" timestamp="1663688015754">
+    <state width="980" height="373" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1663775407756" />
+    <state x="526" y="201" key="SettingsEditor" timestamp="1663775394225">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1663688015754" />
-    <state x="747" y="401" key="new project wizard" timestamp="1663766080859">
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1663775394225" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1663775400531">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="747" y="401" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1663766080859" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1663775400531" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663775330869">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1663775330869" />
+    <state x="747" y="401" key="new project wizard" timestamp="1663834631266">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="747" y="401" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1663834631266" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

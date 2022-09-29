@@ -17,4 +17,9 @@ public interface UserDao {
     //企业里面不太规范但很实用的玩法
     //使用一个万能的map,不需要知道User里面有多少参数,,有100个我也不管
     int addUser2(Map<String, Object> map);
+
+    //分页
+    List<User> getUserByLimit(Map<String,Integer> map);
+
+    List<User> getUserByRowBounds();
 }

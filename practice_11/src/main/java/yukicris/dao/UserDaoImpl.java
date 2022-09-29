@@ -28,4 +28,12 @@ public class UserDaoImpl implements UserDao{
     public int addUser2(Map<String, Object> map) {
         return 0;
     }
+
+    public List<User> getUserByLimit(Map<String, Integer> map) {
+        return null;
+    }
+
+    public List<User> getUserByRowBounds() {
+        return null;
+    }
 }
