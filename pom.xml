@@ -24,6 +24,7 @@
         <module>practice_10</module>
         <module>practice_11</module>
         <module>practice_12</module>
+        <module>rabbit_mq</module>
     </modules>
 
 
